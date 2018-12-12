@@ -10,7 +10,7 @@ public class BinaryTree {
 	{
 		addNodeToTree(code,letterOrNumb);
     }
-	//构建二叉树
+	//构建二叉树2
 	// 将指定的值加入到二叉树中适当的节点
     void addNodeToTree(final String code,final String letterOrNumb) {
     	
